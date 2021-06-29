@@ -1,0 +1,55 @@
+{
+  "id": "cd03a741-39d3-4825-ae96-bbf74c426f49",
+  "parentId": "294ef543-ad6b-4942-aeea-bb6e6d067fdc",
+  "rootParentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "name": "i_am - 2 - email",
+  "auto": true,
+  "contexts": [
+    "i_am-2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "i_am.i_am-custom.i_am-2-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c86681f7-55eb-4e02-9fdb-dadb48104c1b",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email.original",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please enter email id"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok, we\u0027ll keep you posted😊"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

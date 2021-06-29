@@ -1,0 +1,56 @@
+{
+  "id": "4d151ccc-c59a-49ab-84f6-88f3c3a01e46",
+  "parentId": "1a40b791-0bed-4038-8545-12e4ecaddf78",
+  "rootParentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "name": "i_am - 1 - store3",
+  "auto": true,
+  "contexts": [
+    "i_am-1-followup",
+    "3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "i_am.i_am-custom.i_am-1-custom",
+      "affectedContexts": [
+        {
+          "name": "i_am-1-store3-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "685395fc-8ee3-4b3a-ac9c-92fe4f1d067a",
+          "required": false,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal.original",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "What time will you like to come...\n\nPlease write the corresponding serial number of the time you would like to visit.\n\n1)8-9am\n2)9-10am\n3)10-11am\n4)11-12pm\n5)12-1pm\n6)1-2m\n7)2-3m\n8)3-4pm\n9)4-5pm\n10)5-6pm\n11)6-7pm\n12)7-8pm\n13)8-9pm"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "8336de9b-0dfe-4cd7-bda5-d49a0ff8c3e9",
+    "data": [
+      {
+        "text": "four",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "053093d4-a212-4cd8-b349-4eb5478e856d",
+    "data": [
+      {
+        "text": "4",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6f2d460-6966-4713-b3e3-1fb937cb7fb3",
+    "data": [
+      {
+        "text": "4",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db1db5bf-fa40-43d7-a19c-0ce5683dba0c",
+    "data": [
+      {
+        "text": "4rth",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "379873f6-0092-4801-a6a7-6ff554e831ce",
+    "data": [
+      {
+        "text": "4",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

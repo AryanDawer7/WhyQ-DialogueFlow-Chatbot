@@ -1,0 +1,50 @@
+{
+  "id": "ac3791a0-bb8b-4cf8-ad1c-328d73557d4d",
+  "parentId": "1a40b791-0bed-4038-8545-12e4ecaddf78",
+  "rootParentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "name": "i_am - 1 - exit",
+  "auto": true,
+  "contexts": [
+    "i_am-1-followup",
+    "4"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "i_am.i_am-custom.i_am-1-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ce720c8a-18a4-459c-a6b4-17ff97d3b727",
+          "required": true,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal.original",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok Bye."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b58e4db5-f142-435f-afdd-b7742e0d679a",
+    "data": [
+      {
+        "text": "one",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aed18cc7-b1ba-4369-ab48-fe0e043e3381",
+    "data": [
+      {
+        "text": "1",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2dc5b791-d7f1-403e-ac31-16587d90c881",
+    "data": [
+      {
+        "text": "1",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3c7f4d7c-dcd0-4819-8041-02398911354e",
+    "data": [
+      {
+        "text": "1st",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "242eeba5-cb6f-4a80-8730-be13ae9d245c",
+    "data": [
+      {
+        "text": "1",
+        "alias": "ordinal",
+        "meta": "@sys.ordinal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

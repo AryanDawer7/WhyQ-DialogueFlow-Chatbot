@@ -1,0 +1,49 @@
+{
+  "id": "71ec7151-8e69-4d1f-a730-49debb0b9b0d",
+  "parentId": "9c084a31-be16-4e94-9324-e25ddb8d6d26",
+  "rootParentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "name": "i_am - 1 - store3 - end - thanx",
+  "auto": true,
+  "contexts": [
+    "i_am-1-store3-end-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "i_am.i_am-custom.i_am-1-custom.i_am-1-store3-custom.i_am-1-store3-end-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "07de549a-6394-4b90-beac-c837714b16f2",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "any",
+          "value": "$any",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thanks for using our services."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "97759906-7368-4fb7-865d-8fb9e7e79529",
+  "parentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "rootParentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "name": "i_am - 3",
+  "auto": true,
+  "contexts": [
+    "3",
+    "i_am-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "i_am.i_am-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1631b6e1-a39c-4367-b1e9-28c46ad41175",
+          "required": true,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal.original",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok Bye."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

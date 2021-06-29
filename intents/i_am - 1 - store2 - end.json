@@ -1,0 +1,55 @@
+{
+  "id": "e4a2182c-b6a3-4cbb-b9f9-5fbbc3f736aa",
+  "parentId": "ecb90444-792b-4ceb-bd07-0bcd096cc1dc",
+  "rootParentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "name": "i_am - 1 - store2 - end",
+  "auto": true,
+  "contexts": [
+    "i_am-1-store2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "i_am.i_am-custom.i_am-1-custom.i_am-1-store2-custom",
+      "affectedContexts": [
+        {
+          "name": "i_am-1-store2-end-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "76bf6af5-7e98-4ed7-817b-c75c6651c796",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "number-integer",
+          "value": "$number-integer",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok, Please enter your order so that we can get it ready for you..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

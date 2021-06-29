@@ -1,0 +1,80 @@
+[
+  {
+    "id": "ca5e2469-1bb9-4291-8c39-99192ead8803",
+    "data": [
+      {
+        "text": "ID \u003d ",
+        "userDefined": false
+      },
+      {
+        "text": "hello.hi@yahoo.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "59bcc05c-b487-49a7-b49f-d6ec9d660215",
+    "data": [
+      {
+        "text": "my email id is ",
+        "userDefined": false
+      },
+      {
+        "text": "bddahdb@outlook.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f32d55a8-6f7c-4d87-9d7b-3d3bae092c33",
+    "data": [
+      {
+        "text": "aryan@hotmail.co.in",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b7104b1c-37ab-4c0d-8d56-85cb1f0aed9d",
+    "data": [
+      {
+        "text": "jain_sbxajhbx@icloud.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d6c9d74-6b03-4f71-8143-fafb2e556917",
+    "data": [
+      {
+        "text": "jsbjksd@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

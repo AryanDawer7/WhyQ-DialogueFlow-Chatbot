@@ -1,0 +1,62 @@
+{
+  "id": "294ef543-ad6b-4942-aeea-bb6e6d067fdc",
+  "parentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "rootParentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "name": "i_am - 2",
+  "auto": true,
+  "contexts": [
+    "2",
+    "i_am-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "i_am.i_am-custom",
+      "affectedContexts": [
+        {
+          "name": "i_am-2-followup",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "dda75915-b2c5-44fc-b7f0-118f4d578d0f",
+          "required": true,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal.original",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please choose from the given options..."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok, pls enter your email ID"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

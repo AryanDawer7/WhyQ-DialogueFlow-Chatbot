@@ -1,0 +1,82 @@
+{
+  "id": "1a40b791-0bed-4038-8545-12e4ecaddf78",
+  "parentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "rootParentId": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "name": "i_am - 1",
+  "auto": true,
+  "contexts": [
+    "i_am-followup",
+    "1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "i_am.i_am-custom",
+      "affectedContexts": [
+        {
+          "name": "i_am-1-followup",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "1",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "2",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "3",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "4",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5d3307b8-d56d-4058-9adc-932dc4f2802e",
+          "required": true,
+          "dataType": "@sys.ordinal",
+          "name": "ordinal",
+          "value": "$ordinal.original",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please choose from the given options..."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Which store would you like to visit. Please write the corresponding serial number of the shop you would like to visit.\n\n(we have mentioned their working hours in brackets for your convenience)\n\n1) General ration store(L Block Market)\n(9am-9pm)\n2) Mother Dairy(GP Extension)\n(5:30am-1pm and then 4pm-10pm)\n3) Rakesh Vegetable Store(L Block Market)\n(8am-9pm)\n4) Exit the chat"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

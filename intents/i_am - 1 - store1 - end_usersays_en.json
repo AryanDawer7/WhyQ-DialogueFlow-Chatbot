@@ -1,0 +1,224 @@
+[
+  {
+    "id": "9e2474b1-c568-4c74-91b2-ede428a28276",
+    "data": [
+      {
+        "text": "5",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2718d209-70f9-4a2f-a29a-2028a01547a1",
+    "data": [
+      {
+        "text": "4",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "79dce045-5006-4764-b5b7-c6833349edda",
+    "data": [
+      {
+        "text": "3",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f860b40c-98bc-4394-b898-f6f44022a2f6",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f076b88c-464d-4f98-a977-99e0b6e45b92",
+    "data": [
+      {
+        "text": "1",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f746bef6-d944-4d94-ad61-a6c096a81689",
+    "data": [
+      {
+        "text": "15",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ceb961e-16cb-482c-ba8b-5e501e76f262",
+    "data": [
+      {
+        "text": "14",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e73cb38c-ad34-4873-9cdf-bab8e12aeed7",
+    "data": [
+      {
+        "text": "13",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd4e5e9b-53be-4962-8d6f-562f2782b787",
+    "data": [
+      {
+        "text": "12",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8321af7-d798-459f-b4fb-03e7a1ca9830",
+    "data": [
+      {
+        "text": "11",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8a08c108-d124-4ca3-abca-2425c305a726",
+    "data": [
+      {
+        "text": "10",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": "th",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7f8692b9-0348-4bdf-9a3d-e11e1c893f82",
+    "data": [
+      {
+        "text": "9",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6816da9-f775-4070-b23c-543a46931527",
+    "data": [
+      {
+        "text": "8",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": ")",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cad242dd-7055-464f-9f97-318bc6c74951",
+    "data": [
+      {
+        "text": "7",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebdf82c2-2eec-4378-aca8-5ba1e8ee2a58",
+    "data": [
+      {
+        "text": "6",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

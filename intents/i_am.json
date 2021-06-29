@@ -1,0 +1,65 @@
+{
+  "id": "72ba56cf-c94f-401d-859d-e735ec659974",
+  "name": "i_am",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "1",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "2",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "3",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "i_am-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5960e659-f334-4f38-821c-6a9c2d09b038",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "Name",
+          "value": "$Name",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Hey $Name,\nRight now we\u0027re only offering services in Green Park Extension.\n\nIf you don\u0027t live in Green Park, don\u0027t worry. Drop us your email ID and we will let you know when we offer services in your area.\n\n1) I live in Green Park Extension.\n2) Let me know when you come to my locality.\n3) Exit the chat"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

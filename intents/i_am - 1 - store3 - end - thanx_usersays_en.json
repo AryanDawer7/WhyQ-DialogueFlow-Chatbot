@@ -1,0 +1,72 @@
+[
+  {
+    "id": "7f9ebe27-7ad4-4cd4-8811-b45823cefc05",
+    "data": [
+      {
+        "text": "wheat",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0af93680-3824-48cc-b5d1-310161703dc3",
+    "data": [
+      {
+        "text": "rice",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e75683e4-948f-414d-9d3e-1342c51c9fbd",
+    "data": [
+      {
+        "text": "buiscuits",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf59dfa0-7ffb-4a10-b45b-374415abe741",
+    "data": [
+      {
+        "text": "eggs",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "65655553-6f0f-4a93-b4d3-f00af66d2d9d",
+    "data": [
+      {
+        "text": "anything",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

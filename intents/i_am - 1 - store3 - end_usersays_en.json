@@ -1,0 +1,198 @@
+[
+  {
+    "id": "e299ee94-1770-4029-bbbf-ca41f87cebe6",
+    "data": [
+      {
+        "text": "14",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2760eef1-3efa-4319-bc6e-61cd6951d5a0",
+    "data": [
+      {
+        "text": "13",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "705eabb1-253c-4508-9309-8fd9b75fc393",
+    "data": [
+      {
+        "text": "12",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8de0522d-b6f5-4d71-b7af-6a106bb30039",
+    "data": [
+      {
+        "text": "11",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2b65812b-2d20-43e1-8c07-da1947250dd0",
+    "data": [
+      {
+        "text": "10",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "221aa129-12d4-4b1e-ae47-6e98cde40b48",
+    "data": [
+      {
+        "text": "9",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "73f4740f-b078-4716-9698-1e78a0ef41bb",
+    "data": [
+      {
+        "text": "8",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "809dada6-723b-4f8f-b4d7-c1a1b5b236fa",
+    "data": [
+      {
+        "text": "7",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "33b4404d-36af-46f6-8c6a-2366835cb70a",
+    "data": [
+      {
+        "text": "6",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "52d97897-cd77-4bd2-bad5-2ef6652d4ec1",
+    "data": [
+      {
+        "text": "5",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4050de64-c4dd-4741-b312-6fdf6da65893",
+    "data": [
+      {
+        "text": "4",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "06fef930-1baf-49c4-acd5-fb0fcf41bc73",
+    "data": [
+      {
+        "text": "3",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a5bed48c-d3fb-4960-9712-b36e495ca19b",
+    "data": [
+      {
+        "text": "2",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a959aec5-3cea-4eac-b90b-a69879818c64",
+    "data": [
+      {
+        "text": "1",
+        "alias": "number-integer",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
